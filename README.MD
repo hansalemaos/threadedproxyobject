@@ -1,6 +1,6 @@
 # Threaded Proxy Object
 
-## pip install threadproxyobject
+## pip install threadedproxyobject
 
 ### Tested against Windows 10 / Python 3.11 / Anaconda
 
